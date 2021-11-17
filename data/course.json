@@ -1,0 +1,44 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c03f2fc6-bc6a-e647-a7b1-3baa451f2a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nature, Environment, and Empire",
+  "course_description": "This class examines the relationship between the study of natural history, both domestic and exotic, by Europeans and Americans, and exploration and exploitation of the natural world, focusing on the eighteenth and nineteenth centuries.\n",
+  "department_numbers": [
+    "21H",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.415J",
+  "primary_course_number": "21H.968J",
+  "learning_resource_types": [
+    "Image Gallery",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
